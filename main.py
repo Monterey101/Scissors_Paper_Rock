@@ -1,0 +1,1 @@
+print("Welcome to Python CLI Scissors Paper Rock")
